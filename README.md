@@ -1,2 +1,1 @@
-"# rust_practice" 
-"# rust_practice" 
+# Rust Practice

@@ -1,1 +1,1 @@
-# Rust Practice
+# hello-rust
